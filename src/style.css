@@ -47,3 +47,11 @@ td {
 tr:nth-child(even) {
   background-color: #ddd;
 }
+
+#btn {
+  display: flex;
+  background-color: #2198ad;  
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
