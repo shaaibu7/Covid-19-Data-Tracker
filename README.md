@@ -49,7 +49,7 @@ This project fetches covid-19 data from an API and renders it on the frontend.
 
 ### Key Features <a name="key-features"></a>
 
-- **Keeps track of daily todo tasks and manages them.**
+- **Renders Covid-19 data dynamically.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,10 +122,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 <!-- LICENSE -->
 
