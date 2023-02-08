@@ -1,0 +1,49 @@
+#first {
+  display: flex;
+  justify-content: center;
+  border-radius: 25px;
+  background: #2198ad;
+  padding: 20px;
+  width: 97%;
+  height: 80px;
+}
+
+#second {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 20px;
+  background: #2198ad;
+  height: 60px;
+  width: 70%;
+}
+
+h1 {
+  color: aqua;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 5px;
+}
+
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 70%;
+}
+
+th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+td {
+  font-size: small;
+  align-content: center;
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: #ddd;
+}
