@@ -28,7 +28,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To Do List with Webpack <a name="about-project"></a>
+# 📖 Covid-19 Data Tracker <a name="about-project"></a>
 
 This project fetches covid-19 data from an API and renders it on the frontend.
 
